@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+     padding: 20px 40px;
+     font-family: "Verdana";
+}
+
+h1 {
+     margin: 20px;
+}
+
+   *{
+     text-align: center;
+}
